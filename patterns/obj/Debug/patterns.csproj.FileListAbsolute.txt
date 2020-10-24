@@ -1,0 +1,9 @@
+C:\Users\vanger_biburat\source\repos\OOP - Cs\patterns\bin\Debug\patterns.exe.config
+C:\Users\vanger_biburat\source\repos\OOP - Cs\patterns\bin\Debug\patterns.exe
+C:\Users\vanger_biburat\source\repos\OOP - Cs\patterns\bin\Debug\patterns.pdb
+C:\Users\vanger_biburat\source\repos\OOP - Cs\patterns\obj\Debug\patterns.csprojAssemblyReference.cache
+C:\Users\vanger_biburat\source\repos\OOP - Cs\patterns\obj\Debug\patterns.csproj.CoreCompileInputs.cache
+C:\Users\vanger_biburat\source\repos\OOP - Cs\patterns\obj\Debug\patterns.exe
+C:\Users\vanger_biburat\source\repos\OOP - Cs\patterns\obj\Debug\patterns.pdb
+C:\Users\vanger_biburat\source\repos\patterns\patterns\obj\Debug\patterns.exe
+C:\Users\vanger_biburat\source\repos\patterns\patterns\obj\Debug\patterns.pdb

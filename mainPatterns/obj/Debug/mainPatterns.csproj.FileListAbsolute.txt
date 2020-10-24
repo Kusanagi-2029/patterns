@@ -1,0 +1,6 @@
+C:\Users\vanger_biburat\source\repos\patterns\mainPatterns\bin\Debug\mainPatterns.exe.config
+C:\Users\vanger_biburat\source\repos\patterns\mainPatterns\bin\Debug\mainPatterns.exe
+C:\Users\vanger_biburat\source\repos\patterns\mainPatterns\bin\Debug\mainPatterns.pdb
+C:\Users\vanger_biburat\source\repos\patterns\mainPatterns\obj\Debug\mainPatterns.csproj.CoreCompileInputs.cache
+C:\Users\vanger_biburat\source\repos\patterns\mainPatterns\obj\Debug\mainPatterns.exe
+C:\Users\vanger_biburat\source\repos\patterns\mainPatterns\obj\Debug\mainPatterns.pdb
